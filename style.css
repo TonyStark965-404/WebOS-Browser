@@ -28,7 +28,7 @@ body{
     height:100vh;
     overflow: hidden;
     font-family: 'Segoe UI', sans-serif;
-    background: transparent;
+    background: black;
     color:var(--text);
     user-select: none;
     transition: background-color 250ms ease,
