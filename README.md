@@ -55,7 +55,7 @@ And if you want to run it in your WebOS,
 - Use `<iframe>` inside the WebOS to refer to the index.html inside the cloned folder.
 - Change the background color of document from black to transparent if you want to keep the background from your OS.
 
-[!NOTE]: You would have to modify the code for both your WebOS and this browser to make it work alongside the theme system (right now the browser refers to the theme of Fluetro OS).
+>[! NOTE]: You would have to modify the code for both your WebOS and this browser to make it work alongside the theme system (right now the browser refers to the theme of Fluetro OS).
 
 ## How does it work?
 
